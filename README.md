@@ -3,3 +3,5 @@
 *Test repo for Git testing*
 
 **Feel free to contribute!**
+
+AIP is cool!
