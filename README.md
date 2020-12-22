@@ -2,4 +2,4 @@
 
 Test repo for Git testing
 
-Feel free to contribute!
+**Feel free to contribute!**
